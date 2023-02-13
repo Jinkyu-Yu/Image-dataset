@@ -1,4 +1,5 @@
-A PCB dataset for defects detection and classification
+[19] W. Huang and P. Wei, “A PCB dataset for defects detection and classification,” 2019, arXiv:1901.08204.
+
 ![d_14400](https://user-images.githubusercontent.com/124348594/218502657-53b6843a-df52-44ff-9fe7-787abbc519c6.png)
 ![d_14600](https://user-images.githubusercontent.com/124348594/218502663-c976f5cc-3ddc-4985-bd60-06c8a644fff2.png)
 ![d_14800](https://user-images.githubusercontent.com/124348594/218502668-ea99c3d1-475e-4447-9597-cccd7c1774a0.png)

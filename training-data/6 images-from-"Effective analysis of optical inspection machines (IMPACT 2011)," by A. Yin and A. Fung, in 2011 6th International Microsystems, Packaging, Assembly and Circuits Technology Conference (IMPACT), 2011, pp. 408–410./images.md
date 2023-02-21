@@ -1,4 +1,4 @@
-A. Yin and A. Fung, Effective analysis of optical inspection machines (IMPACT 2011), in 2011 6th International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT), 2011, pp. 408–410.
+A. Yin and A. Fung, "Effective analysis of optical inspection machines (IMPACT 2011)," in 2011 6th International Microsystems, Packaging, Assembly and Circuits Technology Conference (IMPACT), 2011, pp. 408–410.
 
 ![d_28200](https://user-images.githubusercontent.com/124348594/219949325-e7f6e240-8950-4662-bab6-883be96babc4.png)
 ![d_28400](https://user-images.githubusercontent.com/124348594/219949328-138befe9-d46d-48f4-a263-e1f4026fa4b0.png)

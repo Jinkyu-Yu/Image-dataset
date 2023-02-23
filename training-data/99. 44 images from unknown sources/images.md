@@ -1,4 +1,4 @@
-There are some images from unknown references.
+There are some images from unknown sources.
 
 ![d_24800](https://user-images.githubusercontent.com/124348594/219949535-ca44118b-4066-4d04-9ca5-a6d808010558.png)
 ![d_25000](https://user-images.githubusercontent.com/124348594/219949536-9142a7f8-b24a-4735-826c-cc99049f8a4a.png)
